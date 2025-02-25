@@ -1,4 +1,4 @@
-# Node.js API Boilerplate
+# Node.js API Boilerplate with Express.js
 
 A simple Node.js API Boilerplate with JWT Authentication, MongoDB integration, and Swagger documentation.
 
