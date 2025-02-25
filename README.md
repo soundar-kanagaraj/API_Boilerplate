@@ -23,7 +23,7 @@ A simple Node.js API Boilerplate with JWT Authentication, MongoDB integration, a
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/nodejs-api-boilerplate.git
+   git clone https://github.com/soundar-kanagaraj/nodejs-api-boilerplate.git
    cd nodejs-api-boilerplate
    ```
 
